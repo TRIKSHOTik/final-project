@@ -1,0 +1,591 @@
+header nav a {
+    text-decoration: none;
+    color: #000000;
+    margin-right: 40px;
+}
+
+body {
+    font-family: 'Manrope';
+}
+
+img {
+    max-width: 100%;
+}
+
+header nav {
+    margin-top: 45px;
+}
+
+header .register {
+    margin-top: 35px;
+    background: #F84646;
+    text-decoration: none;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 10px 20px;
+
+}
+
+
+header {
+    position: absolute;
+    right: 0;
+    width: 100%;
+}
+
+.flex-wrapper {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container {
+    max-width: 1196px;
+    margin: auto;
+}
+
+.menu {
+    display: none;
+}
+
+.section1 {
+    background-image: url(../images/Rectangle1.png);
+    background-size: cover;
+    padding: 200px 0 148px;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.section1 h1 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 82px;
+}
+
+.section1 p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    letter-spacing: 0.2px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.main-form {
+    max-width: 665px;
+}
+
+.kalite h2 {
+
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 120px;
+
+}
+
+
+.blockp {
+
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.20000004768371582px;
+    text-align: center;
+    max-width: 994px;
+    margin: 30px auto 0;
+
+}
+
+
+.form-wrapper {
+    background-color: #FFFFFF;
+    max-width: 360px;
+    border-radius: 8px;
+    padding-left: 8px;
+}
+
+.form-wrapper input {
+    padding: 29px 21px;
+    border: none;
+}
+
+.form-wrapper input:focus {
+    border: none;
+    outline: none;
+}
+
+.form-wrapper button {
+    padding: 13px 38px 12px 37px;
+    color: #FFFFFF;
+    background-color: #F84646;
+    border-radius: 8px;
+    border: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 36px;
+    letter-spacing: 0.2px;
+    margin-left: 19px;
+}
+
+.block1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 140px;
+
+}
+
+
+.blockel {
+    max-width: 316px;
+    margin-left: 21px;
+    margin-right: 21px;
+    text-align: center;
+    margin-top: 94px;
+}
+
+.blockel h4 {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 33px;
+    letter-spacing: 0em;
+
+
+}
+
+
+.blockel p {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.20000004768371582px;
+
+}
+
+
+.test {
+    background-color: #F84646;
+    text-align: center;
+}
+
+
+.test h3 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+    color: #FFFFFF;
+    padding-top: 68px;
+    padding-bottom: 8px;
+}
+
+
+.test p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+.yaz {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1088px;
+    margin: 64px auto 0;
+    padding-bottom: 78px;
+}
+
+
+.referan {
+    padding: 160px 0;
+}
+
+.ve, .ve2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ve2 {
+    padding-top: 120px;
+}
+
+.ve-h2, .analizi {
+    max-width: 600px;
+}
+
+.ve h2, .analizi h2 {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 76px;
+    color: #2E2E2E;
+}
+
+
+
+.ve p, .analizi p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #808080;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+
+.keşfet {
+    background: #F84646;
+    width: 160px;
+    height: 48px;
+    border-radius: 8px;
+    padding: 12px 58px;
+
+}
+
+.ve a, .analizi a {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+.referanslarımız h2 {
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 64px;
+    color: #18191F;
+    padding-top: 59px;
+}
+
+.referanslarımız p {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #18191F;
+    margin-top: 5px;
+}
+
+.referanslarımız {
+    text-align: center;
+    background: #F4F5F7;
+}
+
+.comps {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px 59px;
+}
+
+.logo {
+    width: 170px;
+    height: 96px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 24px;
+}
+
+.comps>div {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.bize {
+    text-align: center;
+}
+
+.bize h2 {
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 32px;
+    color: #000000;
+    padding-bottom: 20px;
+}
+
+.bize p {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #000000;
+    padding-bottom: 55px;
+}
+
+.bize a {
+    padding: 25px 40px;
+    color: #FFFFFF;
+    background-color: #F84646;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 20px;
+    text-decoration: none;
+}
+
+.bizee {
+    padding: 160px 0;
+}
+
+.footer {
+    background-color: #F84646;
+    padding-bottom: 70px;
+    font-family: 'Inter';
+}
+
+.cözüm h4 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.cözüm li {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #E6E6E6;
+    list-style-type: none;
+    padding-top: 24px;
+}
+
+.cözüm {
+    padding: 80px 0 50px;
+}
+
+.flex-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.social p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+
+.social {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+@media (max-width: 1220px) {
+    .container {
+        max-width: 95%;
+    }
+
+    .ve>div {
+        max-width: 48%;
+    }
+
+    .ve2>div {
+        max-width: 48%;
+    }
+
+    .main-form h1{
+        font-weight: 800;
+    font-size: 56px;
+    line-height: 74px;
+    }
+
+    .main-form P {
+        font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+    }
+
+    .yaz p {
+        font-weight: 700;
+font-size: 18px;
+line-height: 31px;
+    }
+    .ve-h2 h2{
+        font-weight: 700;
+font-size: 58px;
+line-height: 60px;
+    }
+    .ve-h2 p {
+        font-weight: 400;
+font-size: 14px;
+line-height: 28px;
+    }
+
+}
+
+
+
+
+@media (max-width: 890px) {
+    .block1 {
+        justify-content: center;
+    }
+    .yaz {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .comps {
+        flex-direction: column;
+    }
+
+    .yaz img{
+        transform: rotate(90deg);
+        padding: 44px 0;
+    }
+
+    .ve-h2 {
+        order: 1;
+    }
+
+    .flex-box {
+        flex-direction: column;
+        padding-top: 31px;
+    }
+    .cözüm{
+        padding: 49px 0;
+    }
+
+    .social {
+        flex-direction: column-reverse;
+    }
+
+    .social p {
+        padding-top: 70px;
+    }
+
+    .flex-wrapper nav{
+        display: none;
+        
+    }
+    .menu {
+        display: flex;
+        position: absolute;
+        left: 20px;
+        top: 39px;
+    }
+
+    .ve, .ve2 {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .ve > div,.ve2 > div {
+        max-width: 100%;
+    }
+
+    .ve-h2,.analizi{
+        text-align: center;
+        padding-top: 30px;
+
+    }
+    .keşfet{
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .main-form h1{
+        font-weight: 800;
+font-size: 42px;
+line-height: 58px;
+    }
+    .main-form p{
+        font-weight: 400;
+font-size: 12px;
+line-height: 23px;
+    }
+
+    .kalite h2 {
+        font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+        margin-top: 60px;
+    }
+
+    .blockp {
+        font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+margin-top: 15px;
+    }
+
+    .test h3 {
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 47px;
+    }
+
+    .test p {
+        font-weight: 400;
+font-size: 14px;
+line-height: 32px;
+    }
+    .ve-h2 h2,.analizi h2 {
+        font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+    }
+    .ve-h2 p,.analizi p {
+        font-weight: 400;
+font-size: 14px;
+line-height: 28px;
+        margin: 20px 0 40px;
+    }
+
+    .referanslarımız h2 {
+        font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+    }
+    .referanslarımız p {
+        font-weight: 500;
+font-size: 14px;
+line-height: 32px;
+    }
+
+    .bize h2 {
+        font-weight: 800;
+font-size: 36px;
+line-height: 32px;
+    }
+    .bize p {
+        font-weight: 500;
+font-size: 14px;
+line-height: 25px;
+    }
+    .bize a {
+        font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+    }
+    .block1{
+        margin-bottom: 90px;
+    }
+    .referan {
+        padding: 90px;
+    }
+    .ve2 {
+        padding-top: 60px;
+    }
+    .bizee{
+        padding: 90px 0 82px;
+    }
+    .cözüm{
+        padding: 24px 0;
+    }
+}
